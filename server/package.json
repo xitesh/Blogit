@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Blogit is a Dev focused blog site",
   "main": "server.js",
   "type": "module",
   "scripts": {
@@ -9,6 +9,6 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Nitesh Nagar",
   "license": "ISC"
 }
